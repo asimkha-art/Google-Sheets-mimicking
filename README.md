@@ -51,3 +51,30 @@ Ensures data integrity by validating numeric inputs.
 Error Handling:
 
 Detects and resolves cyclic dependencies in formulas.
+
+Screenshots:
+
+Included relevant screenshots to show the UI, mathematical functions, and data quality tools in action.
+
+![1](https://github.com/user-attachments/assets/3ab7b96b-7da4-4051-94ed-4d1673e30872)
+
+![2](https://github.com/user-attachments/assets/505b175d-f5ea-437d-a794-6b2d2ac57f0b)
+
+
+Future Enhancements:
+
+Add export/import functionality for spreadsheets.
+
+Expand mathematical and logical functions.
+
+Improve user interaction with undo/redo features.
+
+
+
+Contributors:
+
+Asim Khan
+
+Project Lead and Developer
+
+
